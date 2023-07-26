@@ -5,5 +5,20 @@
 
 .recipe-list {
     font-size: 30px;
-    
+   
+}
+
+.recipe-name {
+    font-size: 40px;
+
+}
+
+.ingredients {
+    font-size: 30px;
+    background-color: pink;
+}
+
+.steps {
+    font-size: 30px;
+    background-color: yellow;
 }
