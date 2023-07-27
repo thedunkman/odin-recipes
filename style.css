@@ -22,3 +22,11 @@
     font-size: 30px;
     background-color: yellow;
 }
+
+.main-page-bg {
+    background-color: pink
+}
+
+.recipe-page-bg {
+    background-color: lightskyblue
+}
