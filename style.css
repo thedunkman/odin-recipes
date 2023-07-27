@@ -34,3 +34,8 @@
 .text {
     font-size: 24px;
 }
+
+.foodpic {
+    height: auto;
+    width: 600px;
+}
