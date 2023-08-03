@@ -11,17 +11,20 @@
 
 .recipe-name {
     font-size: 40px;
+    margin: 40px;
 
 }
 
 .ingredients {
     font-size: 30px;
     background-color: pink;
+    margin: 10px 40px;
 }
 
 .steps {
     font-size: 30px;
     background-color: yellow;
+    margin: 10px 40px;
 }
 
 .main-page-bg {
@@ -34,11 +37,13 @@
 
 .text {
     font-size: 24px;
+    margin: 10px 40px;
 }
 
 .foodpic {
     height: auto;
     width: 600px;
+    margin: 10px 40px;
 }
 
 .button {
