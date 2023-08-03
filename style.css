@@ -39,3 +39,10 @@
     height: auto;
     width: 600px;
 }
+
+.button {
+    background-color: lightskyblue;
+    color:white;
+    font-size: 30px;
+    margin: 8px;
+}
